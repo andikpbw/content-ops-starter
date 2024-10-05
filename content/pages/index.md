@@ -25,7 +25,7 @@ sections:
         type: Button
     media:
       url: /images/youtube-tag-generator.png
-      altText: youtools
+      altText: youtube tag generator
       elementId: ''
       type: ImageBlock
     badge:
