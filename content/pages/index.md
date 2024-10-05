@@ -7,7 +7,7 @@ sections:
       text: Boost Your YouTube Success with YouTools
       color: text-dark
       type: TitleBlock
-    subtitle: For Professional Content Creator
+    subtitle: For Professional Content Creators
     text: >
       100% Free Tools to save time in creating YouTube name generator, YouTube
       title generator, [youtube tag
