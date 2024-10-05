@@ -236,7 +236,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Grow your channel 10x faster
+      text: Grow your channel 8x faster
       color: text-dark
       styles:
         self:
