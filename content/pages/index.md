@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/youtools.png
+      url: /images/youtube-tag-generator.png
       altText: youtools
       elementId: ''
       type: ImageBlock
